@@ -1,7 +1,7 @@
 # VulnWatchdog - 漏洞情报库
 
 > 🤖 自动化CVE漏洞监控与分析系统
-> 📅 最后更新: 2025-12-08
+> 📅 最后更新: 2025-12-09
 > 📊 已收录: **2055** 个CVE | **7830** 个POC仓库
 
 ---
@@ -61,65 +61,7 @@
 
 ## 🚨 本周新增
 
-### [CVE-2025-6440](2025/CVE-2025-6440-smuft1707_CVE-2025-6440.md) 🔴
-
-**名称:** CVE-2025-6440 - WooCommerce Designer Pro 未经验证的任意文件上传
-**类型:** 任意文件上传 | **发现:** 2025-12-01
-**POC:** [CVE-2025-6440](https://github.com/smuft1707/CVE-2025-6440)
-
-### [CVE-2025-13615](2025/CVE-2025-13615-blossombutt4063_CVE-2025-13615.md) 🔴
-
-**名称:** CVE-2025-13615-StreamTube Core-Unauthenticated Arbitrary User Password Change
-**类型:** Unauthenticated Arbitrary User Password Change | **发现:** 2025-12-01
-**POC:** [CVE-2025-13615](https://github.com/blossombutt4063/CVE-2025-13615)
-
-### [CVE-2012-2122](2012/CVE-2012-2122-zhangkaibin0921_CVE-2012-2122.md) 🔴
-
-**名称:** CVE-2012-2122-MySQL/MariaDB身份验证绕过
-**类型:** 身份验证绕过 | **发现:** 2025-12-01
-**POC:** [CVE-2012-2122](https://github.com/zhangkaibin0921/CVE-2012-2122)
-
-### [CVE-2012-2122](2012/CVE-2012-2122-Avinza_CVE-2012-2122-scanner.md) 🔴
-
-**名称:** CVE-2012-2122-MySQL/MariaDB身份验证绕过
-**类型:** 身份验证绕过 | **发现:** 2025-12-01
-**POC:** [CVE-2012-2122-scanner](https://github.com/Avinza/CVE-2012-2122-scanner)
-
-### [CVE-2012-2122](2012/CVE-2012-2122-cyberharsh_Oracle-mysql-CVE-2012-2122.md) 🔴
-
-**名称:** CVE-2012-2122-MySQL/MariaDB身份认证绕过漏洞
-**类型:** 身份认证绕过 | **发现:** 2025-12-01
-**POC:** [Oracle-mysql-CVE-2012-2122](https://github.com/cyberharsh/Oracle-mysql-CVE-2012-2122)
-
-### [CVE-2012-2122](2012/CVE-2012-2122-netw0rk7_CVE-2012-2122-Home-Lab.md) 🔴
-
-**名称:** CVE-2012-2122 MySQL Authentication Bypass
-**类型:** 身份验证绕过 | **发现:** 2025-12-01
-**POC:** [CVE-2012-2122-Home-Lab](https://github.com/netw0rk7/CVE-2012-2122-Home-Lab)
-
-### [CVE-2025-4679](2025/CVE-2025-4679-fevar54_CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo.md)
-
-**名称:** CVE-2025-4679-ActiveBackupForMicrosoft365-CredentialsExposure
-**类型:** 敏感信息泄露 | **发现:** 2025-12-01
-**POC:** [CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo](https://github.com/fevar54/CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo)
-
-### [CVE-2025-54253](2025/CVE-2025-54253-netmatthew3771_CVE-2025-54253.md) 🔴
-
-**名称:** CVE-2025-54253-Adobe Experience Manager-Misconfiguration
-**类型:** Misconfiguration | **发现:** 2025-12-01
-**POC:** [CVE-2025-54253](https://github.com/netmatthew3771/CVE-2025-54253)
-
-### [CVE-2025-65345](2025/CVE-2025-65345-tlekrean_CVE-2025-65345.md) 🔴
-
-**名称:** CVE-2025-65345 – laravel-file-manager 文件系统披露漏洞
-**类型:** 目录遍历/文件系统披露 | **发现:** 2025-12-01
-**POC:** [CVE-2025-65345](https://github.com/tlekrean/CVE-2025-65345)
-
-### [CVE-2021-21980](2021/CVE-2021-21980-pratikjojode_vcenter-cve-2021-21980-lab.md) 🔴
-
-**名称:** CVE-2021-21980 - VMware vCenter Server Web Client 任意文件读取
-**类型:** 任意文件读取 | **发现:** 2025-12-01
-**POC:** [vcenter-cve-2021-21980-lab](https://github.com/pratikjojode/vcenter-cve-2021-21980-lab)
+_本周暂无新增漏洞_
 
 ---
 
